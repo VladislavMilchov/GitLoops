@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eDqSwO8k+PGTxrPO4QDvTH4t0yIdk0ToSPp4aowgbTZTOUQamJd1Ps7S0QYoWpb12pGmoMldUAtw36UVx5nt7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vladi\\source\\repos\\Blankfactor loops\\Blankfactor loops\\Blankfactor loops.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vladi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\vladi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

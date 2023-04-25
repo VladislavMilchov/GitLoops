@@ -1,0 +1,14 @@
+C:\Users\vladi\source\repos\Blankfactor loops\Check if it is palindrome\bin\Debug\netcoreapp3.1\Check if it is palindrome.exe
+C:\Users\vladi\source\repos\Blankfactor loops\Check if it is palindrome\bin\Debug\netcoreapp3.1\Check if it is palindrome.deps.json
+C:\Users\vladi\source\repos\Blankfactor loops\Check if it is palindrome\bin\Debug\netcoreapp3.1\Check if it is palindrome.runtimeconfig.json
+C:\Users\vladi\source\repos\Blankfactor loops\Check if it is palindrome\bin\Debug\netcoreapp3.1\Check if it is palindrome.runtimeconfig.dev.json
+C:\Users\vladi\source\repos\Blankfactor loops\Check if it is palindrome\bin\Debug\netcoreapp3.1\Check if it is palindrome.dll
+C:\Users\vladi\source\repos\Blankfactor loops\Check if it is palindrome\bin\Debug\netcoreapp3.1\Check if it is palindrome.pdb
+C:\Users\vladi\source\repos\Blankfactor loops\Check if it is palindrome\obj\Debug\netcoreapp3.1\Check if it is palindrome.csproj.AssemblyReference.cache
+C:\Users\vladi\source\repos\Blankfactor loops\Check if it is palindrome\obj\Debug\netcoreapp3.1\Check if it is palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\source\repos\Blankfactor loops\Check if it is palindrome\obj\Debug\netcoreapp3.1\Check if it is palindrome.AssemblyInfoInputs.cache
+C:\Users\vladi\source\repos\Blankfactor loops\Check if it is palindrome\obj\Debug\netcoreapp3.1\Check if it is palindrome.AssemblyInfo.cs
+C:\Users\vladi\source\repos\Blankfactor loops\Check if it is palindrome\obj\Debug\netcoreapp3.1\Check if it is palindrome.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\Blankfactor loops\Check if it is palindrome\obj\Debug\netcoreapp3.1\Check if it is palindrome.dll
+C:\Users\vladi\source\repos\Blankfactor loops\Check if it is palindrome\obj\Debug\netcoreapp3.1\Check if it is palindrome.pdb
+C:\Users\vladi\source\repos\Blankfactor loops\Check if it is palindrome\obj\Debug\netcoreapp3.1\Check if it is palindrome.genruntimeconfig.cache

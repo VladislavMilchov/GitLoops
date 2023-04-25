@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mE4mlenC0YkQyYGAiYi3W7ZqGilnEMxFw2Ue8ZI4a2Kdx52ukicCSTlhSxVPQ3a3Ru1hup+C27NuJ0s4VB+a3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vladi\\source\\repos\\Blankfactor loops\\Check if it is palindrome\\Check if it is palindrome.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vladi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\vladi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
